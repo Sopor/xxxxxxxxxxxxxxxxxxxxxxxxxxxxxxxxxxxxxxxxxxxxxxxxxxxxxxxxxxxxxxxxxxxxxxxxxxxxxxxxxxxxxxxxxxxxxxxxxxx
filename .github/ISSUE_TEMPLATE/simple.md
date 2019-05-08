@@ -1,3 +1,12 @@
+---
+name: Simple issue template
+about: Simple
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 <!--
 If you are posting a question/feature requests, all prefilled information can be removed.
 -->
