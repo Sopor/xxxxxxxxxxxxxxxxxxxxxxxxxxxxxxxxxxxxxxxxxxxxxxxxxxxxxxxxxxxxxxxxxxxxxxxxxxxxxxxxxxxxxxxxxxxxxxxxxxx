@@ -15,5 +15,5 @@ Name and version of the operating system and python version (run python --versio
 ### What is the issue:
 
 Always include the URL you want to download and all switches you are using.
-You should also add --verbose because it makes it much easier for use to find the issue :)
+You should also add --verbose because it makes it much easier for us to find the issue :)
 'svtplay-dl --verbose https://www.example.com'
