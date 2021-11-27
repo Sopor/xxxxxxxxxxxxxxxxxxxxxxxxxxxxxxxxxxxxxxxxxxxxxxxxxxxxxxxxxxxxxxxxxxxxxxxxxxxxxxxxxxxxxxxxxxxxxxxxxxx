@@ -4,6 +4,8 @@ body:
   - type: input
     attributes:
       label: svtplay-dl version
+      description: |
+      What version do you run?
       placeholder: |
       svtplay-dl version
     validations:
