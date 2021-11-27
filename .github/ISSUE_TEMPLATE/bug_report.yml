@@ -5,9 +5,9 @@ body:
     attributes:
       label: svtplay-dl version
       description: |
-      What version do you run?
+        What version do you run?
       placeholder: |
-      svtplay-dl version
+        svtplay-dl version
     validations:
       required: true
 
