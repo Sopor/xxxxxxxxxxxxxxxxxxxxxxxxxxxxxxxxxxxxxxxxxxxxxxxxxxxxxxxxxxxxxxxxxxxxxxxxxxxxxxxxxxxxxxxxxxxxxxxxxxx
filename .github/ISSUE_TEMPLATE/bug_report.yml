@@ -5,7 +5,7 @@ body:
     attributes:
       label: svtplay-dl version
       placeholder: |
-      svtplay-dl -version
+      `svtplay-dl -version`
     validations:
       required: true
 
