@@ -2,6 +2,7 @@ name: Bug report
 description: Report a bug
 body:
   - type: input
+    id version
     attributes:
       label: svtplay-dl version
       description: |
@@ -36,4 +37,10 @@ body:
       label: Operating system
     validations:
       required: true
-      
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Verbose log
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
