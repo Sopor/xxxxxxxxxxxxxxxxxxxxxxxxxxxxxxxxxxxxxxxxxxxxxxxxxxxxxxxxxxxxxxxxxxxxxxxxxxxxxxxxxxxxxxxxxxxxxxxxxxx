@@ -23,6 +23,16 @@ body:
 
   - type: input
     attributes:
+      label: FFmpeg version
+      description: |
+        What version do you run?
+      placeholder: |
+        run ffmpeg -version
+    validations:
+      required: true
+
+  - type: input
+    attributes:
       label: Operating system
     validations:
       required: true
