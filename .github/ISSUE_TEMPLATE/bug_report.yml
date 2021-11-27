@@ -7,13 +7,17 @@ body:
       description: |
         What version do you run?
       placeholder: |
-        svtplay-dl version
+        run svtplay-dl -version
     validations:
       required: true
 
   - type: input
     attributes:
       label: Python version
+      description: |
+        What version do you run?
+      placeholder: |
+        run python --version
     validations:
       required: true
 
